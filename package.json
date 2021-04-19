@@ -1,0 +1,16 @@
+{
+  "name": "malapi",
+  "version": "1.0.0",
+  "description": "Basic mal crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.4.0",
+    "node-html-parser": "^2.1.0"
+  }
+}
